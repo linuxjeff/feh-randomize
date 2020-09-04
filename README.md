@@ -1,0 +1,2 @@
+# feh-randomize
+feh randomize
