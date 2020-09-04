@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+while [[ true ]]; do
+	feh --no-fehbg --bg-scale --randomize /usr/share/backgrounds/personal_wallpaper/*
+        sleep 1800
+done
