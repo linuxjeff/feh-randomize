@@ -2,7 +2,7 @@
 Description=wallpaper
 
 [Service]
-ExecStart=/usr/bin/fen-randomize
+ExecStart=/usr/bin/feh --no-fehbg --bg-scale --randomize /usr/share/backgrounds/personal_wallpaper/*
 
 [Install]
 WantedBy=multi-user.target
